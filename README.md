@@ -1,18 +1,27 @@
-# Hi, I'm Martin 👋
+# Hi 👋, I'm Martin
+<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=Welcome!+here+are+my+projects">
 
 <img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" />
 
-<br />
+- 🔭 Currently working in a personal project with PERN stack
 
-- 👨‍💻 I’m a frontend developer
+- 💻 Typescript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL.
+
 - 📘 I'm currently studing Computer Science at [Universidad Nacional del Litoral](https://www.unl.edu.ar/carreras/ingenieria-en-informatica/)
-- 🌱 I’m currently learning backend development with NodeJS, Express and MongoDB
 
 <br />
 
-### Technologies and tools that I use
+### Contact Me
+
+- 📫 **martinsione03@gmail.com** 
+
+- 👨🏻‍🎓 [linkedin.com/in/martinsione](https://www.linkedin.com/in/martinsione)
+
+<br />
+  
+### Some other tools I use
+
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -30,23 +39,3 @@
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>\
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-<br />
-<p align="center"> 
-  <!--
-  <a href="https://twitter.com/martinsione03" target="_blank"
-    ><img
-      alt="Twitter"
-      src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-  /></a>
-  -->
-  <a href="https://www.linkedin.com/in/martinsione" target="_blank"
-    ><img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-  /></a>
-  <a href="mailto:martinsione03@gmail.com" target="_blank"
-    ><img
-      alt="Mail"
-      src="https://img.shields.io/badge/Contact%20Me-eb8542.svg?&style=for-the-badge&logo=mail.ru&logoColor=white"
-  /></a>
-</p>
