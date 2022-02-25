@@ -2,9 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+fullstack+developer">
 
 
-<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="350" height="140" />
+<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="330" height="140" />
 
-- 🔭 Currently working in a personal project with PERN stack
+- 🔭 Working in a personal project with Typescript, Express, React and PostgreSQL
 
 - 💻 Typescript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL.
 
@@ -16,7 +16,7 @@
 
 - 📫 **martinsione03@gmail.com** 
 
-- 👨🏻‍🎓 [linkedin.com/in/martinsione](https://www.linkedin.com/in/martinsione)
+- 👨🏻‍🎓 **[linkedin.com/in/martinsione](https://www.linkedin.com/in/martinsione)**
 
 <br />
   
