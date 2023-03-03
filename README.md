@@ -1,16 +1,6 @@
 # Hi 👋, I'm Martin
 <img src="https://readme-typing-svg.herokuapp.com?color=E6B5776697&lines=I'+am+a+frontend+developer">
 
-<img align="right" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" width="300" height="115" />
-
-- 🔭 Working in a personal project with Typescript, Express, React and PostgreSQL
-
-- 💻 Typescript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL.
-
-- 📘 I'm currently studing Computer Science at [Universidad Nacional del Litoral](https://www.unl.edu.ar/carreras/ingenieria-en-informatica/)
-
-<br />
-
 ## Contact Me
 
 - 📫 **martinsione03@gmail.com** 
